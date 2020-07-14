@@ -26,6 +26,14 @@ Download or clone this predicting-bike-sharing-patterns repository. Launch the a
 jupyter-notebook Your_first_neural_network.ipynb
 ```
 
+# Contents
+
+* Bike-Sharing-Dataset: Folder containing 2 csv files used as a dataset for this project 
+* assets: Images used for explanatory purpose in jup notebook
+* Your_first_neural_network.ipynb :The actual project file
+* answers.py :Contains code for creating,training and saving the model.Imported in Your_first_neural_network.ipynb
+* Your_first_neural_network.ipynb :The project file with extension.py
+
 # Usage
 
 ### Run
