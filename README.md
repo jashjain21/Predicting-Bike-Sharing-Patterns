@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 Download or clone this predicting-bike-sharing-patterns repository. Launch the app with jupyter-notebook.
 ```
-jupyter-notebook Your_first_neural_network.py
+jupyter-notebook Your_first_neural_network.ipynb
 ```
 
 # Usage
